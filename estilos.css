@@ -1,5 +1,5 @@
 /* Estilos Generales */
-body{
+body {
     font-family: 'Courier New', Courier, monospace;
     line-height: 1.6;
     margin: 0;
@@ -8,29 +8,29 @@ body{
     color: #333;
 }
 
-header{
+header {
     background: lightcoral;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
-
 }
 
-nav ul{
+nav ul {
     list-style: none;
     padding: 0;
 }
 
-nav ul li{
+nav ul li {
     display: inline;
 }
 
-nav ul li a{
+nav ul li a {
     color: white;
     text-decoration: none;
 }
+
 /* Secciones */
-section{
+section {
     padding: 20px;
     margin-top: 20px;
     background-color: #eaeaea;
@@ -39,7 +39,7 @@ section{
 
 
 /* Footer */
-footer{
+footer {
     background-color: black;
     color: white;
     text-align: center;
@@ -49,5 +49,6 @@ footer{
 }
 
 footer a{
-    
+    color: white;
+    text-decoration: none;
 }
