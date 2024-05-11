@@ -1,0 +1,9 @@
+Que es lo que vamos a hacer
+
+mini proyecto web
+
+Tecnologias
+
+html
+css
+bootstrap
